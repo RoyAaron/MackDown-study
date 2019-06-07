@@ -134,15 +134,40 @@ markdown的表格我感觉写起来并不是那么简便，我们先来看一下
 
 · -- 代码内容-- ·
 
+```python
+@requires_authorization
+def somefunc(param1='', param2=0):
+    '''A docstring'''
+    if param1 > param2: # interesting
+        print 'Greater'
+    return (param2 - param1 + 1) or None
+
+class SomeClass:
+    pass
+
+>>> message = '''interpreter
+... prompt'''
 ```
-module.exports = {
-  plugins: {
-    autoprefixer: {},
-    'postcss-px2rem': {
-      remUnit: 37.5
-    }
+
+
+``` javascript
+/**
+* nth element in the fibonacci series.
+* @param n >= 0
+* @return the nth element, >= 0.
+*/
+function fib(n) {
+  var a = 1, b = 1;
+  var tmp;
+  while (--n >= 0) {
+    tmp = a;
+    a += b;
+    b = tmp;
   }
+  return a;
 }
+
+document.write(fib(10));
 ```
 
  **注:**注意这里的`不是单引号，而是键盘左边那个~上的`。
