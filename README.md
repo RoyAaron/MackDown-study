@@ -67,7 +67,25 @@ Markdown 是一种轻量级的「标记语言」，它的优点很多，目前�
 
 
 
-
+| 结果 | 描述 | 实体编号 | | 结果 | 描述 | 实体编号 | 
+| --------- | ----------- |------------|---| --------- | ----------- |------------|
+|  NUL  |	null character   |  &#38;&#35;00;  |  |    DC1  |	device control 1  |	&#38;&#35;17; |
+|  SOH  |	start of header   |  &#38;&#35;01;   |  |  DC2  |	device control 2  |	&#38;&#35;18;  |
+|  STX  |	start of tex   |  &#38;&#35;02;   |  |  DC3  |	device control 3  |	&#38;&#35;19;  |
+|  ETX  |	end of tex   |  &#38;&#35;03;   |  |  DC4  |	device control 4  |	&#38;&#35;20;  |
+|  EOT  |	end of transmission   |  &#38;&#35;04;   |  |  NAK  |	negative acknowledge  |	&#38;&#35;21;  |
+|  ENQ  |	enquiry   |  &#38;&#35;05;   |  |  SYN  |	synchronize	| &#38;&#35;22  |
+|  ACK  |	acknowledge   |  &#38;&#35;06;   |  |  ETB  |	end transmission block  |	&#38;&#35;23;  |
+|  BEL  |	bell (ring)   |  &#38;&#35;07;   |  |  CAN  |	cancel	&#24;  | &#38;&#35;24;  |
+|  BS |   backspace   | &#38;&#35;08   |  |  EM  |	end of medium  |	&#38;&#35;25;  |
+|  HT |   horizontal tab   |  &#38;&#35;09;   |  |  SUB  |	substitute  |	&#38;&#35;26;  |
+|  LF |   line feed   |  &#38;&#35;10;   |  |  ESC  |	escape  |	&#38;&#35;27;  |
+|  VT |   vertical tab   |  &#38;&#35;11;   |  |  FS |	file separator  |	&#38;&#35;28;  |
+|  FF |   form feed   |  &#38;&#35;12;   |  |  GS  |	group separator  |	&#38;&#35;29;  |
+|  CR |   carriage return   |  &#38;&#35;13;   |  |  RS  |	record separator  |	&#38;&#35;30;  |
+|  SO |   shift out   |  &#38;&#35;14;   |  |  US  |	unit separator  |	&#38;&#35;31;  |
+|  SI |   shift in   |  &#38;&#35;15;   |  |  DEL  |	delete (rubout)  |	&#38;&#35;127;  |
+|  DLE  |	data link escape   |  &#38;&#35;16;   |  |
 
 ### 2.MarkDown基本语法
 #### 1) 标题
