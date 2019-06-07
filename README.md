@@ -91,23 +91,23 @@ markdown的表格我感觉写起来并不是那么简便，我们先来看一下
 
 · -- 代码内容-- ·
 
-` module.exports = {
+`-- module.exports = {
   plugins: {
     autoprefixer: {},
     'postcss-px2rem': {
       remUnit: 37.5
     }
   }
-} `
+} --`
 
-`module.exports = {
+`--module.exports = {
   plugins: {
     autoprefixer: {},
     'postcss-px2rem': {
       remUnit: 37.5
     }
   }
-}`
+}--`
 
  注意这里的`不是单引号，而是键盘左边那个~上的`。
 
