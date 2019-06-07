@@ -16,65 +16,54 @@ Markdown 是一种轻量级的「标记语言」，它的优点很多，目前�
 ### Markdown 常用转义字符
 | 结果 | 描述 | 实体编号 | | 结果 | 描述 | 实体编号 | 
 | --------- | ----------- |------------|---| --------- | ----------- |------------|
-|       | space | &#38;&#35;32; |  |    [   | left square bracket | &#38;&#35;91; |
-|    !   | exclamation mark | &#38;&#35;33; |  |    \   | backslash | &#38;&#35;92; |
-|    "   | quotation mark | &#38;&#35;34; |  |    ]   | right square bracket | &#38;&#35;93; |
-|    #   | number sign | &#38;&#35;35; |  |    ^   | caret | &#38;&#35;94; |
-|    $   | dollar sign | &#38;&#35;36; |  |    _   | underscore | &#38;&#35;95; |
-|    %   | percent sign | &#38;&#35;37; |  |    `   | grave accent | &#38;&#35;96; |
-|    &   | ampersand | &#38;&#35;38; |  |    a   | lowercase a | &#38;&#35;97; | 
-|    '   | apostrophe | &#38;&#35;39; |  |    b   | lowercase b | &#38;&#35;98; | 
-|   （   | left parenthesis | &#38;&#35;40; |  |    c   | lowercase c | &#38;&#35;99; |
-|    )   | right parenthesis | &#38;&#35;41; | |    d   | lowercase d | &#38;&#35;100; |
-|    *   | asterisk | &#38;&#35;42; |  |    e   | lowercase e | &#38;&#35;101; |
-|    +   | plus sign | &#38;&#35;43; |  |    f   | lowercase f | &#38;&#35;102; |
-|    ,   | comma | &#38;&#35;44; |  |    g   | lowercase g | &#38;&#35;103; |
-|    -   | hyphen | &#38;&#35;45; |  |    h   | lowercase h | &#38;&#35;104; |
-|    -   | period | &#38;&#35;46; |  |    i   | lowercase i | &#38;&#35;105; |
-|    /   | slash | &#38;&#35;47; |  |    j   | lowercase j | &#38;&#35;106; |
-|    0   | digit0 | &#38;&#35;48; |  |    k   | lowercase k | &#38;&#35;107; |
-|    1   | digit1 | &#38;&#35;49; |  |    l   | lowercase l | &#38;&#35;108; |
-|    2   | digit2 | &#38;&#35;50; |  |    m   | lowercase m | &#38;&#35;109; |
-|    3   | digit3 | &#38;&#35;51; |  |    n   | lowercase n | &#38;&#35;110; |
-|    4   | digit4 | &#38;&#35;52; |  |    o   | lowercase o | &#38;&#35;111; |
-|    5   | digit5 | &#38;&#35;53; |  |    p   | lowercase p | &#38;&#35;112; |
-|    6   | digit6 | &#38;&#35;54; |  |    q   | lowercase q | &#38;&#35;113; |
-|    7   | digit7 | &#38;&#35;55; |  |    r   | lowercase r | &#38;&#35;114; |
-|    8   | digit8 | &#38;&#35;56; |  |    s   | lowercase s | &#38;&#35;115; |
-|    9   | digit9 | &#38;&#35;57; |  |    t   | lowercase t | &#38;&#35;116; |
-|    :   | colon | &#38;&#35;58; |  |    u   | lowercase u | &#38;&#35;117; |
-|    ;   | semicolon | &#38;&#35;59; |  |    v   | lowercase v | &#38;&#35;118; |
-|    <   | less-than | &#38;&#35;60; |  |    w   | lowercase w | &#38;&#35;119; |
-|    =   | equals-to | &#38;&#35;61; |  |    x   | lowercase x | &#38;&#35;120; |
-|    >   | greater-than | &#38;&#35;62; |  |    y   | lowercase y | &#38;&#35;121; |
-|    ?   |question mark | &#38;&#35;63; |  |    z   | lowercase z | &#38;&#35;122; |
-|    @   | at sign | &#38;&#35;64; |  |    {   | left curly brace | &#38;&#35;123; |
-|    A   | uppercase A | &#38;&#35;65; |  |  &#124;|   vertical bar | &#38;&#35;124; |
-|    B   | uppercase B | &#38;&#35;66; |  |     }  | right curly brace | &#38;&#35;125; |
-|    C   | uppercase C | &#38;&#35;67; |  |     ~  | tilde | &#38;&#35;126; |
-|    D   | uppercase D | &#38;&#35;68; |
-|    E   | uppercase E | &#38;&#35;69; |
-|    F   | uppercase F | &#38;&#35;70; |
-|    G   | uppercase G | &#38;&#35;71; |
-|    H   | uppercase H | &#38;&#35;72; |
-|    I   | uppercase I | &#38;&#35;73; |
-|    J   | uppercase J | &#38;&#35;74; |
-|    K   | uppercase K | &#38;&#35;75; |
-|    L   | uppercase L | &#38;&#35;76; |
-|    M   | uppercase M | &#38;&#35;77; |
-|    N   | uppercase N | &#38;&#35;78; |
+|       | space | &#38;&#35;32; |  |    P   | uppercase P | &#38;&#35;80; |
+|    !   | exclamation mark | &#38;&#35;33; |  |    Q   | uppercase Q | &#38;&#35;81; |
+|    "   | quotation mark | &#38;&#35;34; |  |    R   | uppercase R | &#38;&#35;82; |
+|    #   | number sign | &#38;&#35;35; |  |   S   | uppercase S | &#38;&#35;83; |
+|    $   | dollar sign | &#38;&#35;36; |  |    T   | uppercase T | &#38;&#35;84; |
+|    %   | percent sign | &#38;&#35;37; |  |    U   | uppercase U | &#38;&#35;85; |
+|    &   | ampersand | &#38;&#35;38; |  |    V   | uppercase V | &#38;&#35;86; |
+|    '   | apostrophe | &#38;&#35;39; |  |    W   | uppercase W | &#38;&#35;87; |
+|   （   | left parenthesis | &#38;&#35;40; |  |    X   | uppercase X | &#38;&#35;88; |
+|    )   | right parenthesis | &#38;&#35;41; |  |    Y   | uppercase Y | &#38;&#35;89; |
+|    *   | asterisk | &#38;&#35;42; |  |    Z   | uppercase Z | &#38;&#35;90; |
+|    +   | plus sign | &#38;&#35;43; |  |    [   | left square bracket | &#38;&#35;91; |
+|    ,   | comma | &#38;&#35;44; |  |    \   | backslash | &#38;&#35;92; |
+|    -   | hyphen | &#38;&#35;45; |  |    ]   | right square bracket | &#38;&#35;93; |
+|    -   | period | &#38;&#35;46; |  |    ^   | caret | &#38;&#35;94; |
+|    /   | slash | &#38;&#35;47; |  |    _   | underscore | &#38;&#35;95; |
+|    0   | digit0 | &#38;&#35;48; |  |    `   | grave accent | &#38;&#35;96; |
+|    1   | digit1 | &#38;&#35;49; |  |    a   | lowercase a | &#38;&#35;97; | 
+|    2   | digit2 | &#38;&#35;50; |  |    b   | lowercase b | &#38;&#35;98; | 
+|    3   | digit3 | &#38;&#35;51; |  |    c   | lowercase c | &#38;&#35;99; |
+|    4   | digit4 | &#38;&#35;52; |  |    d   | lowercase d | &#38;&#35;100; |
+|    5   | digit5 | &#38;&#35;53; |  |    e   | lowercase e | &#38;&#35;101; |
+|    6   | digit6 | &#38;&#35;54; |  |    f   | lowercase f | &#38;&#35;102; |
+|    7   | digit7 | &#38;&#35;55; |  |    g   | lowercase g | &#38;&#35;103; |
+|    8   | digit8 | &#38;&#35;56; |  |    h   | lowercase h | &#38;&#35;104; |
+|    9   | digit9 | &#38;&#35;57; |  |    i   | lowercase i | &#38;&#35;105; |
+|    :   | colon | &#38;&#35;58; |  |    j   | lowercase j | &#38;&#35;106; |
+|    ;   | semicolon | &#38;&#35;59; |  |    k   | lowercase k | &#38;&#35;107; |
+|    <   | less-than | &#38;&#35;60; |  |    l   | lowercase l | &#38;&#35;108; |
+|    =   | equals-to | &#38;&#35;61; |  |    m   | lowercase m | &#38;&#35;109; |
+|    >   | greater-than | &#38;&#35;62; |  |    n   | lowercase n | &#38;&#35;110; |
+|    ?   |question mark | &#38;&#35;63; |  |    o   | lowercase o | &#38;&#35;111; |
+|    @   | at sign | &#38;&#35;64; |  |    p   | lowercase p | &#38;&#35;112; |
+|    A   | uppercase A | &#38;&#35;65; |  |    q   | lowercase q | &#38;&#35;113; |
+|    B   | uppercase B | &#38;&#35;66; |  |    r   | lowercase r | &#38;&#35;114; |
+|    C   | uppercase C | &#38;&#35;67; |  |    s   | lowercase s | &#38;&#35;115; |  
+|    D   | uppercase D | &#38;&#35;68; |  |    t   | lowercase t | &#38;&#35;116; |
+|    E   | uppercase E | &#38;&#35;69; |  |    u   | lowercase u | &#38;&#35;117; |
+|    F   | uppercase F | &#38;&#35;70; |  |    v   | lowercase v | &#38;&#35;118; |
+|    G   | uppercase G | &#38;&#35;71; |  |    w   | lowercase w | &#38;&#35;119; |
+|    H   | uppercase H | &#38;&#35;72; |  |    x   | lowercase x | &#38;&#35;120; |
+|    I   | uppercase I | &#38;&#35;73; |  |    y   | lowercase y | &#38;&#35;121; |  
+|    J   | uppercase J | &#38;&#35;74; |  |    z   | lowercase z | &#38;&#35;122; |
+|    K   | uppercase K | &#38;&#35;75; |  |    {   | left curly brace | &#38;&#35;123; |
+|    L   | uppercase L | &#38;&#35;76; |  |  &#124;|   vertical bar | &#38;&#35;124; |
+|    M   | uppercase M | &#38;&#35;77; |  |     }  | right curly brace | &#38;&#35;125; |
+|    N   | uppercase N | &#38;&#35;78; |  |     ~  | tilde | &#38;&#35;126; |
 |    O   | uppercase O | &#38;&#35;79; |
-|    P   | uppercase P | &#38;&#35;80; |
-|    Q   | uppercase Q | &#38;&#35;81; |
-|    R   | uppercase R | &#38;&#35;82; |
-|    S   | uppercase S | &#38;&#35;83; |
-|    T   | uppercase T | &#38;&#35;84; |
-|    U   | uppercase U | &#38;&#35;85; |
-|    V   | uppercase V | &#38;&#35;86; |
-|    W   | uppercase W | &#38;&#35;87; |
-|    X   | uppercase X | &#38;&#35;88; |
-|    Y   | uppercase Y | &#38;&#35;89; |
-|    Z   | uppercase Z | &#38;&#35;90; |
 
 
 
