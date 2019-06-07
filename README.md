@@ -76,7 +76,7 @@ Markdown 是一种轻量级的「标记语言」，它的优点很多，目前�
 |  EOT  |	end of transmission   |  &#38;&#35;04;   |  |  NAK  |	negative acknowledge  |	&#38;&#35;21;  |
 |  ENQ  |	enquiry   |  &#38;&#35;05;   |  |  SYN  |	synchronize	| &#38;&#35;22  |
 |  ACK  |	acknowledge   |  &#38;&#35;06;   |  |  ETB  |	end transmission block  |	&#38;&#35;23;  |
-|  BEL  |	bell (ring)   |  &#38;&#35;07;   |  |  CAN  |	cancel	&#24;  | &#38;&#35;24;  |
+|  BEL  |	bell (ring)   |  &#38;&#35;07;   |  |  CAN  |	cancel   | &#38;&#35;24;  |
 |  BS |   backspace   | &#38;&#35;08   |  |  EM  |	end of medium  |	&#38;&#35;25;  |
 |  HT |   horizontal tab   |  &#38;&#35;09;   |  |  SUB  |	substitute  |	&#38;&#35;26;  |
 |  LF |   line feed   |  &#38;&#35;10;   |  |  ESC  |	escape  |	&#38;&#35;27;  |
