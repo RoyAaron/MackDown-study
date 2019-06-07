@@ -60,12 +60,13 @@ Markdown 是一种轻量级的「标记语言」，它的优点很多，目前�
 
 #### 6) 超链接
 超链接的写法比较特殊，但是也很好记忆，如我们加一个百度的超链接，markdown语法如下：  
-&#91;百度&#93;&#40;http://www.baidu.com&#41;  
+&#91;百度&#93;(http://www.baidu.com);  
 显示：
 [百度](http://www.baidu.com)  
-当我们导出到html中时，就会得到一个<a>标签的输出。  
+当我们导出到html中时，就会得到一个<a>标签的输出。    
+
 如果我们要加入一张图片，其语法如下：  
-&#33;&#91;百度&#93;&#40;http://www.baidu.com&#41;  
+&#33;&#91;百度&#93;(http://www.baidu.com)  
 ![百度](http://www.baidu.com/img/bdlogo.png)  
 
 
